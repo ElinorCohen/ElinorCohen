@@ -70,7 +70,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img src="https://github.com/ElinorCohen/Books-Reviews/blob/main/images/slide-30.png" width="100%">
+      <img src="https://github.com/ElinorCohen/Books-Reviews/blob/main/images/slide-25.png" width="100%">
     </td>
   </tr>
 </table>

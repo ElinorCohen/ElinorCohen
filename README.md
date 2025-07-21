@@ -11,33 +11,54 @@
 
 ---
 
-## 📌 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-### 🛡️ [AttackOMeter – Web Vulnerability Simulation & Detection](https://github.com/ElinorCohen/Attack-Detection-Full-Stack)  
-> **Interactive educational platform** simulating XSS, CSRF, and NoSQL injection attacks.  
-> Features real-time attack detection, threat classification, and CVE crawling from cvedetails.com.  
-> Built with **React**, **Node.js**, and **MongoDB Atlas**. Detection via custom regex engine.
-
----
-
-### 🌳 [Merkle Tree + RSA Signatures](https://github.com/ElinorCohen/Merkle-Tree)  
-> Python implementation of a Merkle Tree with **SHA-256 hashing**, **proof-of-inclusion verification**,  
-> and **digital signing** of the Merkle root using **RSA key pairs**.  
-> Includes CLI interface for data addition, root computation, and signature validation.
-
----
-
-### 🤖 [Tello Drone – Hand Gesture Control](https://github.com/ElinorCohen/Tello-Drone)  
-> Hand gesture recognition via **MediaPipe** + **OpenCV** to control DJI Tello drone in real time.  
-> Processes live video stream, detects gestures, and translates them to drone SDK commands.  
-> Built in Python with no external cloud dependency.
-
----
-
-### 📚 [Book Reviews Sentiment Analysis](https://github.com/ElinorCohen/Books-Reviews)  
-> NLP pipeline on ~125K Goodreads reviews.  
-> Includes scraping via **Selenium**, POS tagging, lemmatization, and sentiment classification using **AdaBoost**.  
-> Emphasizes feature engineering, explainability, and result visualization.
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ElinorCohen/Attack-Detection-Full-Stack">🛡️ AttackOMeter – Web Vulnerability Simulation</a> (2025)</h3>
+      <i>React, Node.js, MongoDB Atlas</i>
+      <p>
+        Educational platform simulating <b>XSS</b>, <b>CSRF</b>, and <b>NoSQL Injection</b> attacks.<br/>
+        Real-time detection engine, CVE scraping via Selenium, and interactive dashboard.
+      </p>
+    </td>
+    <td><img src="https://github.com/ElinorCohen/Attack-Detection-Full-Stack/blob/master/images/slide-13.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ElinorCohen/Merkle-Tree">🌳 Merkle Tree + RSA Signatures</a> (2024)</h3>
+      <i>Python, Cryptography, CLI</i>
+      <p>
+        Cryptographic data structure supporting <b>SHA-256 hashing</b>, proof-of-inclusion, and RSA-based signature validation.<br/>
+        Fully interactive via CLI, built for learning and experimentation.
+      </p>
+    </td>
+    <td><img src="https://github.com/ElinorCohen/Merkle-Tree/blob/main/images/merkle.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ElinorCohen/Tello-Drone">🤖 Tello Drone – Hand Gesture Control</a> (2024)</h3>
+      <i>Python, OpenCV, MediaPipe</i>
+      <p>
+        Controls a DJI drone via <b>real-time hand gestures</b>.<br/>
+        Uses <b>MediaPipe</b> for landmark detection and maps them to drone SDK commands.
+      </p>
+    </td>
+    <td><img src="https://github.com/ElinorCohen/Tello-Drone/blob/main/images/slide-3.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ElinorCohen/Books-Reviews">📚 Book Review Sentiment Analysis</a> (2024)</h3>
+      <i>Python, Selenium, NLP, scikit-learn</i>
+      <p>
+        Full pipeline for scraping, preprocessing, and analyzing 125K reviews from Goodreads.<br/>
+        <b>Sentiment classification</b> using engineered features and AdaBoost classifier.
+      </p>
+    </td>
+    <td><img src="https://github.com/ElinorCohen/Books-Reviews/blob/main/images/slide-30.png" width="300"/></td>
+  </tr>
+</table>
 
 ---
 

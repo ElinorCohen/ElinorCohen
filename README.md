@@ -16,47 +16,47 @@
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/ElinorCohen/Attack-Detection-Full-Stack">🛡️ AttackOMeter – Web Vulnerability Simulation</a> (2025)</h3>
+      <h3><a href="https://github.com/ElinorCohen/Attack-Detection-Full-Stack">🛡️ AttackOMeter – Web Vulnerability Simulation</a> (2023)</h3>
       <i>React, Node.js, MongoDB Atlas</i>
       <p>
         Educational platform simulating <b>XSS</b>, <b>CSRF</b>, and <b>NoSQL Injection</b> attacks.<br/>
         Real-time detection engine, CVE scraping via Selenium, and interactive dashboard.
       </p>
     </td>
-    <td><img src="https://github.com/ElinorCohen/Attack-Detection-Full-Stack/blob/master/images/slide-13.png" width="300"/></td>
+    <td><img src="https://github.com/ElinorCohen/Attack-Detection-Full-Stack/blob/master/images/slide-13.png" width="100%"/></td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/ElinorCohen/Merkle-Tree">🌳 Merkle Tree + RSA Signatures</a> (2024)</h3>
+      <h3><a href="https://github.com/ElinorCohen/Merkle-Tree">🌳 Merkle Tree + RSA Signatures</a> (2025)</h3>
       <i>Python, Cryptography, CLI</i>
       <p>
         Cryptographic data structure supporting <b>SHA-256 hashing</b>, proof-of-inclusion, and RSA-based signature validation.<br/>
         Fully interactive via CLI, built for learning and experimentation.
       </p>
     </td>
-    <td><img src="https://github.com/ElinorCohen/Merkle-Tree/blob/main/images/merkle.png" width="300"/></td>
+    <td><img src="https://github.com/ElinorCohen/Merkle-Tree/blob/main/images/merkle.png" width="100%"/></td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/ElinorCohen/Tello-Drone">🤖 Tello Drone – Hand Gesture Control</a> (2024)</h3>
+      <h3><a href="https://github.com/ElinorCohen/Tello-Drone">🤖 Tello Drone - Hand Gesture Control</a> (2023)</h3>
       <i>Python, OpenCV, MediaPipe</i>
       <p>
         Controls a DJI drone via <b>real-time hand gestures</b>.<br/>
         Uses <b>MediaPipe</b> for landmark detection and maps them to drone SDK commands.
       </p>
     </td>
-    <td><img src="https://github.com/ElinorCohen/Tello-Drone/blob/main/images/slide-3.png" width="300"/></td>
+    <td><img src="https://github.com/ElinorCohen/Tello-Drone/blob/main/images/slide-3.png" width="100%"/></td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/ElinorCohen/Books-Reviews">📚 Book Review Sentiment Analysis</a> (2024)</h3>
+      <h3><a href="https://github.com/ElinorCohen/Books-Reviews">📚 Book Review Sentiment Analysis</a> (2022)</h3>
       <i>Python, Selenium, NLP, scikit-learn</i>
       <p>
         Full pipeline for scraping, preprocessing, and analyzing 125K reviews from Goodreads.<br/>
         <b>Sentiment classification</b> using engineered features and AdaBoost classifier.
       </p>
     </td>
-    <td><img src="https://github.com/ElinorCohen/Books-Reviews/blob/main/images/slide-30.png" width="300"/></td>
+    <td><img src="https://github.com/ElinorCohen/Books-Reviews/blob/main/images/slide-30.png" width="100%"/></td>
   </tr>
 </table>
 

@@ -8,9 +8,9 @@
 
 🚀 Seeking a junior position in **Cybersecurity**, **Secure Development**, or **Applied Research**
 
-> ✨ I believe secure systems start with clear thinking, layered defense, and practical implementation.
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=8&theme=github_dark&cache_seconds=10)
+
+> ✨ I believe secure systems start with clear thinking, layered defense, and practical implementation.
 
 ---
 

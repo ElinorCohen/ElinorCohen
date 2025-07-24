@@ -10,7 +10,7 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=8&theme=github_dark&cache_seconds=10" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=10" 
     media="(prefers-color-scheme: dark)">
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=8&theme=default&cache_seconds=10" 
@@ -19,6 +19,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=8&theme=default&cache_seconds=10" 
     alt="Top Langs">
 </picture>
+
 
 > ✨ I believe secure systems start with clear thinking, layered defense, and practical implementation.
 

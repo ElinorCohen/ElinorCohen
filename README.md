@@ -43,7 +43,7 @@
 🚀 Seeking a position in **Cybersecurity**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Research, Analysis, or Development)
 
-<!-- <br clear="right"/> -->
+<br clear="right"/>
 
 > ✨ I believe secure systems start with clear thinking, layered defenses, and rigorous validation.
 

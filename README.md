@@ -19,7 +19,7 @@
 
 ---
 
-<picture>
+<!-- <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=github_dark&cache_seconds=10" 
     media="(prefers-color-scheme: dark)">
@@ -49,9 +49,42 @@
 
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ElinorCohen.ElinorCohen" alt="visitors">
-</p>
+</p> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<table>
+  <tr>
+    <td width="60%" valign="center">
+      🎓 <b>M.Sc. Student</b> @ <b>Bar-Ilan University</b><br/>
+      &nbsp;&nbsp;&nbsp;Focus: <b>Cryptography</b> & <b>Information Security</b><br><br>
+      🔐 Researching <b>Cryptographic Protocols</b> & <b>Applied Security</b><br/>
+      &nbsp;&nbsp;&nbsp;Focusing on <b>Secure System Design</b><br><br>
+      🛠️ Passionate about <b>Secure Coding</b> & <b>Automation</b><br/>
+      &nbsp;&nbsp;&nbsp;Combining theory with practice<br><br>
+      🚀 Seeking a position in <b>Cybersecurity</b><br/>
+      &nbsp;&nbsp;&nbsp;(Research, Analysis, or Development)
+    </td>
+    <td width="40%" valign="center">
+      <div align="center">
+        <picture>
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=github_dark&cache_seconds=10" 
+            media="(prefers-color-scheme: dark)">
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
+            media="(prefers-color-scheme: light)">
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
+            alt="Top Langs" width="100%">
+        </picture>
+        <br/><br/>
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=ElinorCohen.ElinorCohen" alt="visitors">
+      </div>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Featured Projects

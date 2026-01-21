@@ -59,7 +59,11 @@
   <tr>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Attack-Detection-Full-Stack">🛡️ AttackOMeter – Web Vulnerability Simulation</a></h3>
-      <p><em>React, Node.js, MongoDB Atlas</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
       <ul>
         <li>Interactive platform simulating <strong>XSS</strong>, <strong>CSRF</strong>, and <strong>NoSQL Injection</strong>.</li>
         <li>Real-time attack detection & CVE crawling with Selenium.</li>
@@ -67,7 +71,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img src="https://github.com/ElinorCohen/Attack-Detection-Full-Stack/blob/master/images/slide-13.png" width="100%">
+      <img src="https://github.com/ElinorCohen/Attack-Detection-Full-Stack/blob/master/images/slide-13.png" width="100%" valign="middle">
     </td>
   </tr>
   <tr>
@@ -81,7 +85,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img src="https://github.com/ElinorCohen/Merkle-Tree/blob/main/images/merkle.png" width="100%">
+      <img src="https://github.com/ElinorCohen/Merkle-Tree/blob/main/images/merkle.png" width="100%" valign="middle">
     </td>
   </tr>
   <tr>

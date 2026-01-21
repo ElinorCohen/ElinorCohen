@@ -31,7 +31,7 @@
     alt="Top Langs">
 </picture>
 
-🎓 **M.Sc. Student** @ **Bar-Ilan University**, specializing in **Cryptography** and **Information Security**.
+🎓 **M.Sc. Student** @ **Bar-Ilan University**, specializing in **Cryptography** & **Information Security**.
 
 🔐 Researching **Cryptographic Protocols**, **Secure System Design**, and **Applied Security**.
 

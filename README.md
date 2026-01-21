@@ -35,7 +35,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focus: **Cryptography** & **Information Security**
 
 🔐 Researching **Cryptographic Protocols**, **Secure Design** & **Applied Security**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combining formal proofs with practical implementation.
 
 🛠️ Passionate about **Secure Coding** & **Automation**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combining theory with practice.

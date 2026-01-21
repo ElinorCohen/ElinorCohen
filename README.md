@@ -26,7 +26,7 @@
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     media="(prefers-color-scheme: light)">
-  <img align="right" width="370"
+  <img align="right" width="360"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     alt="Top Langs">
 </picture>

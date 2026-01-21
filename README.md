@@ -19,14 +19,14 @@
 
 ---
 
-<picture>
+<picture valign="middle">
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=github_dark&cache_seconds=10" 
     media="(prefers-color-scheme: dark)">
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     media="(prefers-color-scheme: light)">
-  <img align="right" width="360" style="vertical-align: middle;"
+  <img align="right" width="360""
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     alt="Top Langs">
 </picture>
@@ -51,7 +51,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ElinorCohen.ElinorCohen" alt="visitors">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+---
 
 ## 🚀 Featured Projects
 

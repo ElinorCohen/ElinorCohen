@@ -19,14 +19,14 @@
 
 ---
 
-<picture valign="middle">
+<picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=github_dark&cache_seconds=10" 
     media="(prefers-color-scheme: dark)">
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     media="(prefers-color-scheme: light)">
-  <img align="right" width="360""
+  <img align="right" width="360" height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     alt="Top Langs">
 </picture>

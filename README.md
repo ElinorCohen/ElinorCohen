@@ -26,7 +26,7 @@
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     media="(prefers-color-scheme: light)">
-  <img align="right" width="360"
+  <img align="right" width="360" style="vertical-align: middle;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     alt="Top Langs">
 </picture>
@@ -71,7 +71,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img src="https://github.com/ElinorCohen/Attack-Detection-Full-Stack/blob/master/images/slide-13.png" width="100%" valign="middle">
+      <img src="https://github.com/ElinorCohen/Attack-Detection-Full-Stack/blob/master/images/slide-13.png" width="100%" style="vertical-align: middle;">
     </td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img src="https://github.com/ElinorCohen/Merkle-Tree/blob/main/images/merkle.png" width="100%" valign="middle">
+      <img src="https://github.com/ElinorCohen/Merkle-Tree/blob/main/images/merkle.png" width="100%" style="vertical-align: middle;">
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img src="https://github.com/ElinorCohen/Tello-Drone/blob/main/images/slide-3.png" width="100%">
+      <img src="https://github.com/ElinorCohen/Tello-Drone/blob/main/images/slide-3.png" width="100%" style="vertical-align: middle;">
     </td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img src="https://github.com/ElinorCohen/Books-Reviews/blob/main/images/slide-25.png" width="100%">
+      <img src="https://github.com/ElinorCohen/Books-Reviews/blob/main/images/slide-25.png" width="100%" style="vertical-align: middle;">
     </td>
   </tr>
 </table>

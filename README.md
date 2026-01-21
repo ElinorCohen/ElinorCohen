@@ -47,7 +47,7 @@
 
 > ✨ I believe secure systems start with clear thinking, layered defenses, and rigorous validation.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284118-b4b9b6a2-097e-4233-a859-694046531389.gif" width="100%">
 
 ## 🚀 Featured Projects
 

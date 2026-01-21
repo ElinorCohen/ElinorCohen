@@ -34,7 +34,8 @@
 🎓 **M.Sc. Student** @ **Bar-Ilan University**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focus: **Cryptography** & **Information Security**
 
-🔐 Researching **Cryptographic Protocols**, **Secure Design** & **Applied Security**<br/>
+🔐 Researching **Cryptographic Protocols** & **Applied Security**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focusing on **Secure System Design**
 
 🛠️ Passionate about **Secure Coding** & **Automation**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combining theory with practice.

@@ -134,22 +134,13 @@
 
 ## 📫 Connect with Me
 
-<!-- <p align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/elinor-cohen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:elinorco24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>  -->
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/elinor-cohen">
-    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=555&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:elinorco24@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 

@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=M.Sc.+Student+@+Bar-Ilan+University;Specializing+in+Cryptography+%26+Security;Researching+MPC+%26+Secure+Protocols;Building+Automation+%26+Security+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=M.Sc.+Student+@+Bar-Ilan+University;Specializing+in+Cryptography+%26+Security;Researching+Cryptographic+Protocols;Building+Automation+%26+Security+Tools" alt="Typing SVG" />
   </a>
 </div>
 
@@ -137,7 +137,7 @@
   <a href="https://www.linkedin.com/in/elinor-cohen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:elinorco24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>

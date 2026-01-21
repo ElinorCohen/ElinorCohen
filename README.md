@@ -1,12 +1,18 @@
-## 👋 Hi, I'm Elinor
+<h1 align="center">Hi, I'm Elinor 👋</h1>
 
-🎓 **M.Sc. in Computer Science** @ **Bar-Ilan University**, focusing on **_Cryptography & Information Security_**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=M.Sc.+Candidate+@+Bar-Ilan+University;Specializing+in+Cryptography+%26+Security;Researching+MPC+%26+Secure+Protocols;Building+Automation+%26+Security+Tools" alt="Typing SVG" />
+  </a>
+</div>
 
-🔐 Exploring practical applications of modern cryptographic protocols and secure system design  
+🎓 **M.Sc.Computer Science Student** @ **Bar-Ilan University**, specializing in **Cryptography** and **Information Security**.
 
-🛠️ Passionate about secure systems, automation, and clean cross-language development  
+🔐 Researching **Cryptographic Protocols**, **Secure System Design**, and **Applied Security**.
 
-🚀 Seeking a junior position in **Cybersecurity**, **Secure Development**, or **Applied Research**
+🛠️ Passionate about **Secure Coding**, **Automation**, and combining theory with practice.
+
+🚀 Seeking a position in the **Cybersecurity field** (Research, Analysis, or Development).
 
 <picture>
   <source 
@@ -20,7 +26,22 @@
     alt="Top Langs">
 </picture>
 
-> ✨ I believe secure systems start with clear thinking, layered defense, and practical implementation.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+> ✨ I believe secure systems start with clear thinking, layered defenses, and practical implementation.
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ElinorCohen.ElinorCohen" alt="visitors">
+</p>
 
 ---
 
@@ -87,7 +108,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/elinor-cohen)  
 ✉️ [elinorco24@gmail.com](mailto:elinorco24@gmail.com)

@@ -19,7 +19,7 @@
 
 ---
 
-<!-- <picture>
+<picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=github_dark&cache_seconds=10" 
     media="(prefers-color-scheme: dark)">
@@ -47,46 +47,7 @@
 
 > ✨ I believe secure systems start with clear thinking, layered defenses, and rigorous validation.
 
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ElinorCohen.ElinorCohen" alt="visitors">
-</p> -->
-
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-<table>
-  <tr>
-    <td width="60%" valign="center">
-      🎓 <b>M.Sc. Student</b> @ <b>Bar-Ilan University</b><br/>
-      &nbsp;&nbsp;&nbsp;Focus: <b>Cryptography</b> & <b>Information Security</b><br><br>
-      🔐 Researching <b>Cryptographic Protocols</b> & <b>Applied Security</b><br/>
-      &nbsp;&nbsp;&nbsp;Focusing on <b>Secure System Design</b><br><br>
-      🛠️ Passionate about <b>Secure Coding</b> & <b>Automation</b><br/>
-      &nbsp;&nbsp;&nbsp;Combining theory with practice<br><br>
-      🚀 Seeking a position in <b>Cybersecurity</b><br/>
-      &nbsp;&nbsp;&nbsp;(Research, Analysis, or Development)
-    </td>
-    <td width="40%" valign="center">
-      <div align="center">
-        <picture>
-          <source 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=github_dark&cache_seconds=10" 
-            media="(prefers-color-scheme: dark)">
-          <source 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
-            media="(prefers-color-scheme: light)">
-          <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
-            alt="Top Langs" width="100%">
-        </picture>
-        <br/><br/>
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=ElinorCohen.ElinorCohen" alt="visitors">
-      </div>
-    </td>
-  </tr>
-</table>
-
-> ✨ I believe secure systems start with clear thinking, layered defenses, and rigorous validation.
-
 ---
 
 ## 🚀 Featured Projects
@@ -168,28 +129,40 @@
 
 ---
 
-## 📫 Connect with Me
+<div align="center">
 
-<p align="left">
+<h3>📫 Connect with Me</h3>
+
+<p>
   <a href="https://www.linkedin.com/in/elinor-cohen">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:elinorco24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
 </p>
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ElinorCohen&theme=github-dark-blue&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ElinorCohen&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElinorCohen&theme=github-dark-blue&hide_border=true" />
-</picture>
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ElinorCohen.ElinorCohen" alt="visitors">
+</p>
 
-<br/>
+</div>
+<!-- <table>
+  <tr>
+    <td width="50%" valign="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/elinor-cohen">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="mailto:elinorco24@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200px">
+    </td>
+  </tr>
+</table> -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElinorCohen&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElinorCohen&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElinorCohen&theme=github_dark" />
-</picture> -->

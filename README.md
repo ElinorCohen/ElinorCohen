@@ -57,7 +57,7 @@
 
 <table>
   <tr>
-    <td valign="middle" width="50%">
+    <td valign="top" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Attack-Detection-Full-Stack">🛡️ AttackOMeter – Web Vulnerability Simulation</a></h3>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -75,7 +75,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle" width="50%">
+    <td valign="top" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Merkle-Tree">🌳 Merkle Tree + RSA Signatures</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -93,7 +93,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle" width="50%">
+    <td valign="top" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Tello-Drone">🤖 Tello Drone - Hand Gesture Control</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -111,7 +111,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle" width="50%">
+    <td valign="top" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Books-Reviews">📚 Book Review Sentiment Analysis</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -134,7 +134,7 @@
 
 ## 📫 Connect with Me
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/elinor-cohen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -142,11 +142,18 @@
   <a href="mailto:elinorco24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>  -->
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/elinor-cohen">
+    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=555&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:elinorco24@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
----
-
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ElinorCohen&theme=github-dark-blue&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ElinorCohen&theme=default&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElinorCohen&theme=github-dark-blue&hide_border=true" />
@@ -158,4 +165,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElinorCohen&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElinorCohen&theme=default" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElinorCohen&theme=github_dark" />
-</picture>
+</picture> -->

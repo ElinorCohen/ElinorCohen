@@ -47,7 +47,7 @@
 
 > ✨ I believe secure systems start with clear thinking, layered defenses, and rigorous validation.
 
-![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+---
 
 ## 🚀 Featured Projects
 

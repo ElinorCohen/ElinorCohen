@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=M.Sc.+Candidate+@+Bar-Ilan+University;Specializing+in+Cryptography+%26+Security;Researching+MPC+%26+Secure+Protocols;Building+Automation+%26+Security+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=M.Sc.+Student+@+Bar-Ilan+University;Specializing+in+Cryptography+%26+Security;Researching+MPC+%26+Secure+Protocols;Building+Automation+%26+Security+Tools" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,16 +32,16 @@
 </picture>
 
 🎓 **M.Sc. Student** @ **Bar-Ilan University**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focus: **Cryptography** & **Information Security**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focus: **Cryptography** & **Information Security**
 
-🔐 Researching **MPC**, **Secure Design** & **Applied Crypto**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combining formal proofs with practical implementation
+🔐 Researching **Cryptographic Protocols**, **Secure Design** & **Applied Security**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combining formal proofs with practical implementation.
 
 🛠️ Passionate about **Secure Coding** & **Automation**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building hands-on tools for security research
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combining theory with practice.
 
-🚀 Seeking a position in **Cybersecurity**:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research, Analysis, or Development
+🚀 Seeking a position in **Cybersecurity**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Research, Analysis, or Development)
 
 <br clear="right"/>
 

@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <picture>
   <source 
@@ -51,7 +51,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ElinorCohen.ElinorCohen" alt="visitors">
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
@@ -77,7 +77,11 @@
   <tr>
     <td valign="middle" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Merkle-Tree">🌳 Merkle Tree + RSA Signatures</a></h3>
-      <p><em>Python, Cryptography, CLI</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cryptography-000000?style=flat-square&logo=auth0&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+      </p>
       <ul>
         <li>Builds a Merkle Tree with <strong>SHA-256</strong> leaf hashing.</li>
         <li>Supports proof-of-inclusion generation and RSA signing.</li>
@@ -91,7 +95,11 @@
   <tr>
     <td valign="middle" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Tello-Drone">🤖 Tello Drone - Hand Gesture Control</a></h3>
-      <p><em>Python, OpenCV, MediaPipe</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/MediaPipe-00BACC?style=flat-square&logo=google-lens&logoColor=white" />
+      </p>
       <ul>
         <li>Uses <strong>MediaPipe</strong> for real-time hand tracking.</li>
         <li>Maps gestures to DJI Tello drone SDK commands.</li>
@@ -105,7 +113,11 @@
   <tr>
     <td valign="middle" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Books-Reviews">📚 Book Review Sentiment Analysis</a></h3>
-      <p><em>Python, Selenium, NLP, scikit-learn</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      </p>
       <ul>
         <li>Scrapes ~125K reviews from Goodreads using <strong>Selenium</strong>.</li>
         <li>Performs NLP preprocessing, POS tagging, and feature engineering.</li>
@@ -120,7 +132,30 @@
 
 ---
 
-## 📫 Connect with Me 
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/elinor-cohen)  
-✉️ [elinorco24@gmail.com](mailto:elinorco24@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/elinor-cohen">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:elinorco24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ElinorCohen&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ElinorCohen&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElinorCohen&theme=github-dark-blue&hide_border=true" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElinorCohen&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElinorCohen&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElinorCohen&theme=github_dark" />
+</picture>

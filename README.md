@@ -21,23 +21,27 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=8&theme=github_dark&cache_seconds=10" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=github_dark&cache_seconds=10" 
     media="(prefers-color-scheme: dark)">
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=8&theme=default&cache_seconds=10" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     media="(prefers-color-scheme: light)">
-  <img align="right" width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=8&theme=default&cache_seconds=10" 
+  <img align="right" width="360"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     alt="Top Langs">
 </picture>
 
-🎓 **M.Sc. Candidate** @ **Bar-Ilan University**, specializing in **Cryptography** and **Information Security**.
+🎓 **M.Sc. Candidate** @ **Bar-Ilan University**.<br>
+Specializing in **Cryptography** and **Information Security**.
 
-🔐 Researching **Cryptographic Protocols**, **Secure System Design**, and **Applied Security**.
+🔐 Researching **Cryptographic Protocols**, **Secure System Design**,<br>
+and **Applied Security**.
 
-🛠️ Passionate about **Secure Coding**, **Automation**, and combining theory with practice.
+🛠️ Passionate about **Secure Coding**, **Automation**,<br>
+and combining theory with practice.
 
-🚀 Seeking a position in the **Cybersecurity field** (Research, Analysis, or Development).
+🚀 Seeking a position in the **Cybersecurity field**<br>
+(Research, Analysis, or Development).
 
 <br clear="right"/>
 

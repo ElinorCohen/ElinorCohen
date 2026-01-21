@@ -19,32 +19,27 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="center" width="55%">
-      🎓 <b>M.Sc. Candidate</b> @ Bar-Ilan University.<br>
-      Focus: <b>Cryptography & Information Security</b>.<br><br>
-      🔐 Researching <b>MPC Protocols</b>, <b>Secure Design</b>, & <b>Applied Security</b>.<br><br>
-      🛠️ Passionate about <b>Secure Coding</b>, <b>Automation</b> & <b>Tooling</b>.<br><br>
-      🚀 Seeking a position in <b>Cybersecurity</b> (Research / Dev / Analysis).
-    </td>
-    <td valign="center" width="45%">
-      <div align="center">
-        <picture>
-          <source 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=github_dark&cache_seconds=10" 
-            media="(prefers-color-scheme: dark)">
-          <source 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
-            media="(prefers-color-scheme: light)">
-          <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
-            alt="Top Langs" width="100%">
-        </picture>
-      </div>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=8&theme=github_dark&cache_seconds=10" 
+    media="(prefers-color-scheme: dark)">
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=8&theme=default&cache_seconds=10" 
+    media="(prefers-color-scheme: light)">
+  <img align="right" width="40%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=8&theme=default&cache_seconds=10" 
+    alt="Top Langs">
+</picture>
+
+🎓 **M.Sc. Candidate** @ **Bar-Ilan University**, specializing in **Cryptography** and **Information Security**.
+
+🔐 Researching **Cryptographic Protocols**, **Secure System Design**, and **Applied Security**.
+
+🛠️ Passionate about **Secure Coding**, **Automation**, and combining theory with practice.
+
+🚀 Seeking a position in the **Cybersecurity field** (Research, Analysis, or Development).
+
+<br clear="right"/>
 
 > ✨ I believe secure systems start with clear thinking, layered defenses, and rigorous validation.
 

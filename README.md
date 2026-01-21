@@ -38,7 +38,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focusing on **Secure System Design**
 
 🛠️ Passionate about **Secure Coding** & **Automation**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combining theory with practice.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combining theory with practice
 
 🚀 Seeking a position in **Cybersecurity**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Research, Analysis, or Development)

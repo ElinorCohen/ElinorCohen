@@ -70,8 +70,8 @@
         <li>Includes user management and an interactive dashboard.</li>
       </ul>
     </td>
-    <td valign="top">
-      <img src="https://github.com/ElinorCohen/Attack-Detection-Full-Stack/blob/master/images/slide-13.png" width="100%" style="vertical-align: middle;">
+    <td valign="middle">
+      <img src="https://github.com/ElinorCohen/Attack-Detection-Full-Stack/blob/master/images/slide-13.png" width="100%">
     </td>
   </tr>
   <tr>
@@ -84,8 +84,8 @@
         <li>Command-line interface for interactive testing and validation.</li>
       </ul>
     </td>
-    <td valign="top">
-      <img src="https://github.com/ElinorCohen/Merkle-Tree/blob/main/images/merkle.png" width="100%" style="vertical-align: middle;">
+    <td valign="middle">
+      <img src="https://github.com/ElinorCohen/Merkle-Tree/blob/main/images/merkle.png" width="100%">
     </td>
   </tr>
   <tr>
@@ -98,8 +98,8 @@
         <li>No cloud dependency – fully local control logic.</li>
       </ul>
     </td>
-    <td valign="top">
-      <img src="https://github.com/ElinorCohen/Tello-Drone/blob/main/images/slide-3.png" width="100%" style="vertical-align: middle;">
+    <td valign="middle">
+      <img src="https://github.com/ElinorCohen/Tello-Drone/blob/main/images/slide-3.png" width="100%">
     </td>
   </tr>
   <tr>
@@ -112,8 +112,8 @@
         <li>Classifies sentiment with <strong>AdaBoost</strong>, with clear visual EDA.</li>
       </ul>
     </td>
-    <td valign="top">
-      <img src="https://github.com/ElinorCohen/Books-Reviews/blob/main/images/slide-25.png" width="100%" style="vertical-align: middle;">
+    <td valign="middle">
+      <img src="https://github.com/ElinorCohen/Books-Reviews/blob/main/images/slide-25.png" width="100%">
     </td>
   </tr>
 </table>

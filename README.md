@@ -26,18 +26,22 @@
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     media="(prefers-color-scheme: light)">
-  <img align="right" width="300"
+  <img align="right" width="360"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     alt="Top Langs">
 </picture>
 
-🎓 **M.Sc. Student** @ **Bar-Ilan University**, specializing in **Cryptography** & **Information Security**.
+🎓 **M.Sc. Student** @ **Bar-Ilan University**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focus: **Cryptography** & **Information Security**
 
-🔐 Researching **Cryptographic Protocols**, **Secure System Design**, and **Applied Security**.
+🔐 Researching **MPC**, **Secure Design** & **Applied Crypto**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combining formal proofs with practical implementation
 
-🛠️ Passionate about **Secure Coding**, **Automation**, and combining theory with practice.
+🛠️ Passionate about **Secure Coding** & **Automation**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building hands-on tools for security research
 
-🚀 Seeking a position in the **Cybersecurity field** (Research, Analysis, or Development).
+🚀 Seeking a position in **Cybersecurity**:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research, Analysis, or Development
 
 <br clear="right"/>
 

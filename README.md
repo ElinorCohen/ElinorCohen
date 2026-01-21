@@ -137,7 +137,7 @@
   <a href="https://www.linkedin.com/in/elinor-cohen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:elinorco24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
@@ -148,21 +148,3 @@
 </p>
 
 </div>
-<!-- <table>
-  <tr>
-    <td width="50%" valign="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/elinor-cohen">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br/><br/>
-      <a href="mailto:elinorco24@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200px">
-    </td>
-  </tr>
-</table> -->
-

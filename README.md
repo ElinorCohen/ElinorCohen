@@ -131,7 +131,7 @@
 
 <div align="center">
 
-<h3>📫 Connect with Me</h3>
+<h3>Connect with Me</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/elinor-cohen">

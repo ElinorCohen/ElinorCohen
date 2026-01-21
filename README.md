@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture>
   <source 
@@ -57,7 +57,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="middle" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Attack-Detection-Full-Stack">🛡️ AttackOMeter – Web Vulnerability Simulation</a></h3>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -75,7 +75,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="middle" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Merkle-Tree">🌳 Merkle Tree + RSA Signatures</a></h3>
       <p><em>Python, Cryptography, CLI</em></p>
       <ul>
@@ -89,7 +89,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="middle" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Tello-Drone">🤖 Tello Drone - Hand Gesture Control</a></h3>
       <p><em>Python, OpenCV, MediaPipe</em></p>
       <ul>
@@ -103,7 +103,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="middle" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Books-Reviews">📚 Book Review Sentiment Analysis</a></h3>
       <p><em>Python, Selenium, NLP, scikit-learn</em></p>
       <ul>

@@ -85,6 +85,8 @@
   </tr>
 </table>
 
+> ✨ I believe secure systems start with clear thinking, layered defenses, and rigorous validation.
+
 ---
 
 ## 🚀 Featured Projects

@@ -56,8 +56,8 @@
     <td valign="top" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Attack-Detection-Full-Stack">🛡️ AttackOMeter – Web Vulnerability Simulation</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <ul>
@@ -74,8 +74,8 @@
     <td valign="top" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Merkle-Tree">🌳 Merkle Tree + RSA Signatures</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cryptography-000000?style=flat-square&logo=auth0&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Cryptography-000000?style=flat-square&logo=auth0&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
       </p>
       <ul>
@@ -92,8 +92,8 @@
     <td valign="top" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Tello-Drone">🤖 Tello Drone - Hand Gesture Control</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/MediaPipe-00BACC?style=flat-square&logo=google-lens&logoColor=white" />
       </p>
       <ul>
@@ -110,8 +110,8 @@
     <td valign="top" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Books-Reviews">📚 Book Review Sentiment Analysis</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
       </p>
       <ul>

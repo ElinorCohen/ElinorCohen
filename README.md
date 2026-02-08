@@ -20,9 +20,15 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=github_dark&cache_seconds=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10">
-  <img align="right" width="360" src="https://github-readme-stats-elinors-projects-302b50a8.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" alt="Top Langs">
+  <source 
+    srcset="https://github-readme-stats-rosy-nine-60.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=github_dark&cache_seconds=10" 
+    media="(prefers-color-scheme: dark)">
+  <source 
+    srcset="https://github-readme-stats-rosy-nine-60.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
+    media="(prefers-color-scheme: light)">
+  <img align="right" width="360"
+    src="https://github-readme-stats-rosy-nine-60.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
+    alt="Top Langs">
 </picture>
 
 🎓 **M.Sc. Student** @ **Bar-Ilan University**<br/>

@@ -47,6 +47,24 @@
 <table>
   <tr>
     <td valign="top" width="50%">
+      <h3><a href="https://github.com/ElinorCohen/threathub-cti-platform">🛡️ ThreatHub – CTI Investigation Platform</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <ul>
+        <li>Full-stack <strong>Cyber Threat Intelligence</strong> platform for automated IOC enrichment.</li>
+        <li>Concurrent multi-source integration (VirusTotal, Shodan, etc.) with local caching.</li>
+        <li>Features normalized risk scoring and an interactive evidence relationship graph.</li>
+      </ul>
+    </td>
+    <td valign="middle">
+      <img src="https://raw.githubusercontent.com/ElinorCohen/threathub-cti-platform/main/docs/assets/threathub-demo.gif" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
       <h3><a href="https://github.com/ElinorCohen/Attack-Detection-Full-Stack">🛡️ AttackOMeter – Web Vulnerability Simulation</a></h3>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;

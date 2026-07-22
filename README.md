@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=M.Sc.+Student+@+Bar-Ilan+University;Specializing+in+Cryptography+%26+Security;Researching+Cryptographic+Protocols;Building+Automation+%26+Security+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=M.Sc.+Graduate+,+Bar-Ilan+University;Specializing+in+Cryptography+%26+Security;Researching+Cryptographic+Protocols;Building+Automation+%26+Security+Tools" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
     alt="Top Langs">
 </picture>
 
-🎓 **M.Sc. Student** @ **Bar-Ilan University**<br/>
+🎓 **M.Sc. Graduate** ,**Bar-Ilan University**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focus: **Cryptography** & **Information Security**
 
 🔐 Researching **Cryptographic Protocols** & **Applied Security**<br/>

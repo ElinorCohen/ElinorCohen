@@ -19,7 +19,7 @@
   <source 
     srcset="https://github-readme-stats-rosy-nine-60.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     media="(prefers-color-scheme: light)">
-  <img align="right" width="35%"
+  <img align="right" width="30%"
     src="https://github-readme-stats-rosy-nine-60.vercel.app/api/top-langs/?username=ElinorCohen&layout=compact&langs_count=6&theme=default&cache_seconds=10" 
     alt="Top Langs">
 </picture>
@@ -32,7 +32,6 @@
 
 🛠️ Passionate about **Secure Coding** & **Automation**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combining theory with practice
-
 <br clear="right"/>
 
 > ✨ I believe secure systems start with clear thinking, layered defenses, and rigorous validation.

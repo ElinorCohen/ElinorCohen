@@ -33,9 +33,6 @@
 🛠️ Passionate about **Secure Coding** & **Automation**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combining theory with practice
 
-🚀 Seeking a position in **Cybersecurity**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Research, Analysis, or Development)
-
 <br clear="right"/>
 
 > ✨ I believe secure systems start with clear thinking, layered defenses, and rigorous validation.
